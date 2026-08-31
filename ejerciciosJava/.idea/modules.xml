@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/ClassService/ClassService.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/ClassService/ClassService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Colecciones/Colecciones.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Colecciones/Colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio1/Ejercicio1.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio1/Ejercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio3/Ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio4/Ejercicio4.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio4/Ejercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios Colecciones/Ejercicio5/Ejercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios-Algoritmos/Ejercicios-Algoritmos.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios-Algoritmos/Ejercicios-Algoritmos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios-Objetos/Ejercicios-Objetos.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios-Objetos/Ejercicios-Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Ejercicios-Relaciones/Ejercicios-Relaciones.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Ejercicios-Relaciones/Ejercicios-Relaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Limpiar Buffer/Limpiar Buffer.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Limpiar Buffer/Limpiar Buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Relaciones de Clases/Relaciones de Clases/Relaciones de Clases.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Relaciones de Clases/Relaciones de Clases/Relaciones de Clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Relaciones de Clases/Relaciones de uno a muchos/Relaciones de uno a muchos.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Relaciones de Clases/Relaciones de uno a muchos/Relaciones de uno a muchos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Variable Local - Global/Variable Local - Global.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/Variable Local - Global/Variable Local - Global.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejerciciosJava.iml" filepath="$PROJECT_DIR$/.idea/ejerciciosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/toString/toString.iml" filepath="$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/toString/toString.iml" />
+    </modules>
+  </component>
+</project>

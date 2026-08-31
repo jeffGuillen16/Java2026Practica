@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Teoria">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Ejercicios-Java/Java-Teoria/ClassService/dist/Teoria.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
